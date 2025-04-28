@@ -1,4 +1,4 @@
-MetodosListas
+## MetodosListas
 Una aplicación de escritorio en C# Windows Forms para gestionar una lista de elementos mediante agregar y eliminar ítems de una lista.
 
 Descripción
